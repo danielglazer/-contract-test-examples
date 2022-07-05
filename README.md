@@ -1,1 +1,1 @@
-# -contract-test-examples
+# contract-test-examples
